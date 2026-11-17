@@ -1,4 +1,7 @@
-# Security Policy
+# Security policy
+
+<!-- quote -->
+"
 
 ## Supported Versions
 
@@ -16,3 +19,9 @@ Use the affected repository's private vulnerability reporting flow under **Secur
 Include the affected repository and version, what an attacker can do, affected configuration,
 and a minimal reproduction. Expect an acknowledgement within one week. After a fix is released,
 the advisory is published with reporter credit unless anonymity is requested.
+
+"
+<!-- end quote -->
+
+SpartanLabsGaming follows the security policy of SpartanLaboratories, quoted above from its home,
+[`SECURITY.md`](https://github.com/SpartanLaboratories/.github/blob/main/SECURITY.md).
