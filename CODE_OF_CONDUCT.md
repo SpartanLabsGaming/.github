@@ -1,4 +1,7 @@
-# Contributor Covenant Code of Conduct
+# Code of conduct
+
+<!-- quote -->
+"
 
 ## Our Pledge
 
@@ -86,3 +89,9 @@ aggression toward or disparagement of classes of individuals.
 This Code of Conduct is adapted from the
 [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html),
 version 2.0. The Community Impact Guidelines were inspired by Mozilla's enforcement ladder.
+
+"
+<!-- end quote -->
+
+SpartanLabsGaming follows the code of conduct of SpartanLaboratories, quoted above from its home,
+[`CODE_OF_CONDUCT.md`](https://github.com/SpartanLaboratories/.github/blob/main/CODE_OF_CONDUCT.md).
